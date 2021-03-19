@@ -4,7 +4,7 @@
 
 **Run application**
 
-* `./gradlew run --args='-p <file with package informations> -f <file with fee informations>`
+* `./gradlew run --args='-p <file with package informations> -f <file with fee informations>'`
   
 * application could be also run without arguments or with only one of them
 
